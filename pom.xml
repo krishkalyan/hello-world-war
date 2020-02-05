@@ -24,11 +24,12 @@
 				<version>2.1.1</version>
 			</plugin>
 		</plugins>
-	</build>
-	<distributionManagement>
+		<distributionManagement>
   <snapshotRepository>
     <id>snapshots</id>
     <url>http://3.87.219.161:8081/nexus/content/repositories/snapshots</url>
   </snapshotRepository>
 </distributionManagement>
+	</build>
+	
 </project>
